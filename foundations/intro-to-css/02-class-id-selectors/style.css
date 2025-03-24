@@ -1,0 +1,15 @@
+.odd {
+    background-color: rgb(255, 100, 100);
+    
+}
+
+#fourth {
+    background-color: rgb(170, 255, 100);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
